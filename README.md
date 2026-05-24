@@ -17,11 +17,11 @@ End the program
 # program to find a solution to a system of linear equations
 # Developed by : ARUNACHALAM M
 # RegisterNumber : 212225230019
-#import numpy as np
-#A = np.array([[1,-3],[3,1]])
-#B=np.array([0,10])
-#C=np.linalg.solve(A,B)
-#print(C)
+import numpy as np
+A = np.array([[1,-3],[3,1]])
+B=np.array([0,10])
+C=np.linalg.solve(A,B)
+print(C)
 
 ## Output:
 <img width="760" height="272" alt="Screenshot 2026-05-23 212333" src="https://github.com/user-attachments/assets/f6a3ebec-a1ab-432a-8a54-b96dc10df505" />
